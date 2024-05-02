@@ -1,6 +1,6 @@
 # Abracadata
 
-<!-- Project Description: This project dives into the intricacies of Large Language Models (LLMs) such as ChatGPT, focusing on their ability to execute zero-shot tasks and the challenges that come with it. We're addressing critical issues such as hallucinations and inconsistencies in LLM outputs, which are barriers to deploying these models in sensitive applications like automated therapy and legal document evaluation.
+Project Description: This project dives into the intricacies of Large Language Models (LLMs) such as ChatGPT, focusing on their ability to execute zero-shot tasks and the challenges that come with it. We're addressing critical issues such as hallucinations and inconsistencies in LLM outputs, which are barriers to deploying these models in sensitive applications like automated therapy and legal document evaluation.
 Our investigation centers around creating a dataset using ChatGPT-generated responses, which we'll scrutinize for hallucinations and consistency. This includes prompt engineering to elicit complex responses and employing natural language processing (NLP) techniques to evaluate the data.
 Goals:
 •	To understand and document the behavior of LLMs in response to various prompts.
